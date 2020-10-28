@@ -1,0 +1,8 @@
+{
+  "name": "sandboxmode",
+  "displayName": "Sandbox Mode",
+  "author": "RTOmega",
+  "description": "Makes you sandbox.",
+  "version": 1,
+  "minGameVersion": 105,
+}
